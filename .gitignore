@@ -1,3 +1,5 @@
 venv
 **/*.pdf
 **/*.mp3
+**/*.xlsx
+**/*.csv
